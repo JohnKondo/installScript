@@ -22,3 +22,5 @@ winget install -e --id SmartBear.SoapUI
 winget install -e --id 7zip.7zip
 
 winget install -e --id Postman.Postman
+
+winget install -e --id OpenVPNTechnologies.OpenVPN
