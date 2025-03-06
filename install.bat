@@ -26,3 +26,5 @@ winget install -e --id Postman.Postman
 winget install -e --id OpenVPNTechnologies.OpenVPN
 
 winget install -e --id TeamViewer.TeamViewer
+
+winget install -e --id Bitwarden.Bitwarden
