@@ -3,7 +3,8 @@ winget install -e --id JetBrains.Toolbox
 
 winget install -e --id Microsoft.VisualStudioCode
 
-winget install -e --id Docker.DockerDesktop
+Rem winget install -e --id Docker.DockerDesktop
+winget install -e --id RedHat.Podman-Desktop
 
 winget install -e --id Git.Git
 
