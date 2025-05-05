@@ -12,7 +12,7 @@ winget install -e --id Google.Chrome
 
 winget install -e --id Google.GoogleDrive
 
-winget install -e --id KeePassXCTeam.KeePassXC
+Rem winget install -e --id KeePassXCTeam.KeePassXC
 
 winget install -e --id dbeaver.dbeaver
 
